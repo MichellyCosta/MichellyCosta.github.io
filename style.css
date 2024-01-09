@@ -78,3 +78,21 @@ button:hover{
     color: #ffffff;
     transition: 0.5s;
 }
+
+.container-text{
+    padding: 150px 0 0 130px;
+}
+
+.text h3{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.text h1{
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.text span{
+    color: #0a8423c5;
+}
